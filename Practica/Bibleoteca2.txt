@@ -1,0 +1,383 @@
+Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []Empty DataFrame
+Columns: [@LassoGuillermo @juancaholguin ]
+Index: []
